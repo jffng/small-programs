@@ -1,0 +1,1128 @@
+{
+    "data": {
+        "elements": [
+            "urn:li:fs_profileSkillCategory:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,TOP)",
+            "urn:li:fs_profileSkillCategory:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,INDUSTRY_KNOWLEDGE)",
+            "urn:li:fs_profileSkillCategory:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,TOOLS_TECHNOLOGIES)",
+            "urn:li:fs_profileSkillCategory:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,INTERPERSONAL)",
+            "urn:li:fs_profileSkillCategory:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,SPOKEN_LANGUAGES)",
+            "urn:li:fs_profileSkillCategory:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,NONE)"
+        ],
+        "metadata": {
+            "totalSkills": 16,
+            "trackingId": "YhTSAzVyR3+WgistqTHWsg==",
+            "vieweeEndorsementsEnabled": true
+        },
+        "paging": {
+            "count": 10,
+            "links": [],
+            "start": 0,
+            "total": 6
+        }
+    },
+    "included": [
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAbuiI0B3-vjeqabwazx27pBk97rMc1cSck,picture,com.linkedin.common.VectorImage,artifacts,1aaaa227-8b3e-4cf7-8b39-8d6e6f17caed-0",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1526151600&v=alpha&t=_SvbLOSBrCiPvGzvioIxv2hGivQBfm-CJ8JQSw3OkYo",
+            "height": 100,
+            "width": 100
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAbuiI0B3-vjeqabwazx27pBk97rMc1cSck,picture,com.linkedin.common.VectorImage,artifacts,1aaaa227-8b3e-4cf7-8b39-8d6e6f17caed-3",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1526151600&v=alpha&t=3C7OdWLjrQLn_Cty-TuzlNDFg6oVrZhua2-5afiTOCQ",
+            "height": 800,
+            "width": 800
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAbuiI0B3-vjeqabwazx27pBk97rMc1cSck,picture,com.linkedin.common.VectorImage,artifacts,1aaaa227-8b3e-4cf7-8b39-8d6e6f17caed-2",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1526151600&v=alpha&t=m2cVNid3WF1QW3TGeNPV3YBa_WAiv7z5dBlefpkjTPA",
+            "height": 400,
+            "width": 400
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAbuiI0B3-vjeqabwazx27pBk97rMc1cSck,picture,com.linkedin.common.VectorImage,artifacts,1aaaa227-8b3e-4cf7-8b39-8d6e6f17caed-1",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1526151600&v=alpha&t=K1HLFDCuAA7Rx6yaoBt774LvQ9ovjedEc_F2dA2Q03U",
+            "height": 200,
+            "width": 200
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAK6zqgBVb7mELrwGiEU28CJlyLnt7eFqfA,picture,com.linkedin.common.VectorImage,artifacts,efbc86d9-2163-440b-87b3-95898da8fd81-1",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1526151600&v=alpha&t=nAZloQBwCCf_JOw4tXSVCg_Pb8ocAAyL8PuH2ESI5pc",
+            "height": 200,
+            "width": 200
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAK6zqgBVb7mELrwGiEU28CJlyLnt7eFqfA,picture,com.linkedin.common.VectorImage,artifacts,efbc86d9-2163-440b-87b3-95898da8fd81-2",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1526151600&v=alpha&t=Z8y2tPLz1QrIV0WeRuQVjaLNRb6TRWLLiKvWeePkqkM",
+            "height": 400,
+            "width": 400
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAK6zqgBVb7mELrwGiEU28CJlyLnt7eFqfA,picture,com.linkedin.common.VectorImage,artifacts,efbc86d9-2163-440b-87b3-95898da8fd81-0",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1526151600&v=alpha&t=ODG_vCCispvdHoml9hbw8Jb-UZo4iwNYG6Zw_Qbs0GM",
+            "height": 100,
+            "width": 100
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAK6zqgBVb7mELrwGiEU28CJlyLnt7eFqfA,picture,com.linkedin.common.VectorImage,artifacts,efbc86d9-2163-440b-87b3-95898da8fd81-3",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1526151600&v=alpha&t=iw3e2JnwapjjjNiYEjzpzMyqWZAGHTCjOf4uQyNRII8",
+            "height": 800,
+            "width": 800
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAA4QzDwBNrS0JZ7vfY4hIpukOccoJbMZhvI,picture,com.linkedin.common.VectorImage,artifacts,840c54ba-2227-45a7-babd-15803158e371-3",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1526151600&v=alpha&t=ec6N5mN4dP17Zjb2bieHgRKsCqkHp3cFFhSb_bD0nEI",
+            "height": 800,
+            "width": 800
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAA4QzDwBNrS0JZ7vfY4hIpukOccoJbMZhvI,picture,com.linkedin.common.VectorImage,artifacts,840c54ba-2227-45a7-babd-15803158e371-0",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1526151600&v=alpha&t=BKzxyygd-b1ORsQCdB1lPX3u8MHKIi1CLS0cfxMF2x8",
+            "height": 100,
+            "width": 100
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAA4QzDwBNrS0JZ7vfY4hIpukOccoJbMZhvI,picture,com.linkedin.common.VectorImage,artifacts,840c54ba-2227-45a7-babd-15803158e371-2",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1526151600&v=alpha&t=YoJc4CnOg4YWqv8xNgHNexDj2vcY84slrKSy4Dswss8",
+            "height": 400,
+            "width": 400
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAA4QzDwBNrS0JZ7vfY4hIpukOccoJbMZhvI,picture,com.linkedin.common.VectorImage,artifacts,840c54ba-2227-45a7-babd-15803158e371-1",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1526151600&v=alpha&t=Oc-HYTQd3eVtrsyehITT390EF6PxLEXoScyd9XgvWso",
+            "height": 200,
+            "width": 200
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,56c61b6b-5eaf-4903-a052-cf4649082237-2",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1526151600&v=alpha&t=KHnsesYNXUZYYr1Vx7VvionN2oJnrcthpAp3MfPUdHE",
+            "height": 400,
+            "width": 400
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,56c61b6b-5eaf-4903-a052-cf4649082237-1",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1526151600&v=alpha&t=Bf0MEEjrY_oREtqSGo6VyJi4ewpmKtr_z4AByEpc-zc",
+            "height": 200,
+            "width": 200
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,56c61b6b-5eaf-4903-a052-cf4649082237-0",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1526151600&v=alpha&t=h3eIA3Q7VJEv9s93VxThCEvGFIk7doR5k4DYT3dJUpA",
+            "height": 100,
+            "width": 100
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,56c61b6b-5eaf-4903-a052-cf4649082237-3",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1526151600&v=alpha&t=Yuz4cztUbaMzqvSHev7ZTNGfVF5UOWuxSdq77Pman0U",
+            "height": 800,
+            "width": 800
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,backgroundImage,com.linkedin.common.VectorImage,artifacts,0abae622-8e94-4bb5-a9e4-be53281147d7-0",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "200_800/0?e=1526151600&v=alpha&t=vB6vfpGEk4fp2fnYdXtJowpA0vRu210bKyw4PTYRGfU",
+            "height": 200,
+            "width": 800
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,backgroundImage,com.linkedin.common.VectorImage,artifacts,0abae622-8e94-4bb5-a9e4-be53281147d7-1",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "350_1400/0?e=1526151600&v=alpha&t=2_9rnqKP0AyztUbRg8HgOmzf-rAA9qrvHqwWdffTdww",
+            "height": 350,
+            "width": 1400
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,picture,com.linkedin.common.VectorImage,artifacts,feb69369-66bc-4cc2-86bb-33208a368647-0",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1526151600&v=alpha&t=UI3SoShqVxplWNOB7nTZIADHzYUprH8UR6zmjQWdBFY",
+            "height": 100,
+            "width": 100
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,picture,com.linkedin.common.VectorImage,artifacts,feb69369-66bc-4cc2-86bb-33208a368647-2",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1526151600&v=alpha&t=BLvIWAnKxxjhkNMouwPTpShWAK-wUytGYtsPKx9EQmI",
+            "height": 400,
+            "width": 400
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,picture,com.linkedin.common.VectorImage,artifacts,feb69369-66bc-4cc2-86bb-33208a368647-1",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1526151600&v=alpha&t=Ysc1KpVU_Mh4BJ6BHaa56blcPih2fT5guhjo7zyAypM",
+            "height": 200,
+            "width": 200
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,picture,com.linkedin.common.VectorImage,artifacts,feb69369-66bc-4cc2-86bb-33208a368647-3",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1526151600&v=alpha&t=H1JckthtQ1IEg0ikfZKb5TpTDuHvz_I-Qw4EXPluYcA",
+            "height": 800,
+            "width": 800
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,backgroundImage,com.linkedin.common.VectorImage,artifacts,d2fd3584-83ba-4e78-b23f-8af6a19ffae2-0",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "200_800/0?e=1526151600&v=alpha&t=EhGhO_vku90zCNuWROJFtn8HeGNKAYkQK9Dk2bSyRNE",
+            "height": 200,
+            "width": 800
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,backgroundImage,com.linkedin.common.VectorImage,artifacts,d2fd3584-83ba-4e78-b23f-8af6a19ffae2-1",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "350_1400/0?e=1526151600&v=alpha&t=GaR2jjHZQ9gH6dqk6CJDbUxuYIFOrq9nvE5fGeJUzi4",
+            "height": 350,
+            "width": 1400
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,picture,com.linkedin.common.VectorImage,artifacts,ad7fa765-121f-4984-93c4-bcb3c1be4d6e-1",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1526151600&v=alpha&t=TCoBzMmo7U5diW3jbFa1o_yJw4cM1r4hTgbn7O4vpyA",
+            "height": 200,
+            "width": 200
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,picture,com.linkedin.common.VectorImage,artifacts,ad7fa765-121f-4984-93c4-bcb3c1be4d6e-2",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1526151600&v=alpha&t=_IMxU_Llnt6Yb98uU-MWvuKJ7scO4hf6OwtXb1ISZ9Y",
+            "height": 400,
+            "width": 400
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,picture,com.linkedin.common.VectorImage,artifacts,ad7fa765-121f-4984-93c4-bcb3c1be4d6e-0",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1526151600&v=alpha&t=xUjUbHH3kA-_ftoYt_3skqE1lD773VVzY88VgatPGoo",
+            "height": 100,
+            "width": 100
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,picture,com.linkedin.common.VectorImage,artifacts,ad7fa765-121f-4984-93c4-bcb3c1be4d6e-3",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1526151600&v=alpha&t=sfPPTjreU3KLqrKk4HjhIf6huz3Cgl-jodpzeitW-UQ",
+            "height": 800,
+            "width": 800
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,d1d75251-c6ec-4931-8ff0-87cb4cd00a98-0",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1526151600&v=alpha&t=h3eIA3Q7VJEv9s93VxThCEvGFIk7doR5k4DYT3dJUpA",
+            "height": 100,
+            "width": 100
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,d1d75251-c6ec-4931-8ff0-87cb4cd00a98-1",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1526151600&v=alpha&t=Bf0MEEjrY_oREtqSGo6VyJi4ewpmKtr_z4AByEpc-zc",
+            "height": 200,
+            "width": 200
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,d1d75251-c6ec-4931-8ff0-87cb4cd00a98-2",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1526151600&v=alpha&t=KHnsesYNXUZYYr1Vx7VvionN2oJnrcthpAp3MfPUdHE",
+            "height": 400,
+            "width": 400
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,d1d75251-c6ec-4931-8ff0-87cb4cd00a98-3",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1526151600&v=alpha&t=Yuz4cztUbaMzqvSHev7ZTNGfVF5UOWuxSdq77Pman0U",
+            "height": 800,
+            "width": 800
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,3573dc62-1b25-4ec3-91f2-ef9671798efe-3",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1526151600&v=alpha&t=Yuz4cztUbaMzqvSHev7ZTNGfVF5UOWuxSdq77Pman0U",
+            "height": 800,
+            "width": 800
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,3573dc62-1b25-4ec3-91f2-ef9671798efe-1",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1526151600&v=alpha&t=Bf0MEEjrY_oREtqSGo6VyJi4ewpmKtr_z4AByEpc-zc",
+            "height": 200,
+            "width": 200
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,3573dc62-1b25-4ec3-91f2-ef9671798efe-2",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1526151600&v=alpha&t=KHnsesYNXUZYYr1Vx7VvionN2oJnrcthpAp3MfPUdHE",
+            "height": 400,
+            "width": 400
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,3573dc62-1b25-4ec3-91f2-ef9671798efe-0",
+            "$type": "com.linkedin.common.VectorArtifact",
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1526151600&v=alpha&t=h3eIA3Q7VJEv9s93VxThCEvGFIk7doR5k4DYT3dJUpA",
+            "height": 100,
+            "width": 100
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAK6zqgBVb7mELrwGiEU28CJlyLnt7eFqfA,picture,com.linkedin.common.VectorImage",
+            "$type": "com.linkedin.common.VectorImage",
+            "artifacts": [
+                "urn:li:fs_miniProfile:ACoAAAK6zqgBVb7mELrwGiEU28CJlyLnt7eFqfA,picture,com.linkedin.common.VectorImage,artifacts,efbc86d9-2163-440b-87b3-95898da8fd81-0",
+                "urn:li:fs_miniProfile:ACoAAAK6zqgBVb7mELrwGiEU28CJlyLnt7eFqfA,picture,com.linkedin.common.VectorImage,artifacts,efbc86d9-2163-440b-87b3-95898da8fd81-1",
+                "urn:li:fs_miniProfile:ACoAAAK6zqgBVb7mELrwGiEU28CJlyLnt7eFqfA,picture,com.linkedin.common.VectorImage,artifacts,efbc86d9-2163-440b-87b3-95898da8fd81-2",
+                "urn:li:fs_miniProfile:ACoAAAK6zqgBVb7mELrwGiEU28CJlyLnt7eFqfA,picture,com.linkedin.common.VectorImage,artifacts,efbc86d9-2163-440b-87b3-95898da8fd81-3"
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C4D03AQG_uxN02XMWvQ/profile-displayphoto-shrink_"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage",
+            "$type": "com.linkedin.common.VectorImage",
+            "artifacts": [
+                "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,d1d75251-c6ec-4931-8ff0-87cb4cd00a98-0",
+                "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,d1d75251-c6ec-4931-8ff0-87cb4cd00a98-1",
+                "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,d1d75251-c6ec-4931-8ff0-87cb4cd00a98-2",
+                "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage,artifacts,d1d75251-c6ec-4931-8ff0-87cb4cd00a98-3"
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C4D03AQH39Q6l6zvwdg/profile-displayphoto-shrink_"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,backgroundImage,com.linkedin.common.VectorImage",
+            "$type": "com.linkedin.common.VectorImage",
+            "artifacts": [
+                "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,backgroundImage,com.linkedin.common.VectorImage,artifacts,d2fd3584-83ba-4e78-b23f-8af6a19ffae2-0",
+                "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,backgroundImage,com.linkedin.common.VectorImage,artifacts,d2fd3584-83ba-4e78-b23f-8af6a19ffae2-1"
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C5616AQGCS5nZlaj2nQ/profile-displaybackgroundimage-shrink_"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,backgroundImage,com.linkedin.common.VectorImage",
+            "$type": "com.linkedin.common.VectorImage",
+            "artifacts": [
+                "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,backgroundImage,com.linkedin.common.VectorImage,artifacts,0abae622-8e94-4bb5-a9e4-be53281147d7-0",
+                "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,backgroundImage,com.linkedin.common.VectorImage,artifacts,0abae622-8e94-4bb5-a9e4-be53281147d7-1"
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C4E16AQEi0SwzCVHWng/profile-displaybackgroundimage-shrink_"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,picture,com.linkedin.common.VectorImage",
+            "$type": "com.linkedin.common.VectorImage",
+            "artifacts": [
+                "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,picture,com.linkedin.common.VectorImage,artifacts,ad7fa765-121f-4984-93c4-bcb3c1be4d6e-0",
+                "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,picture,com.linkedin.common.VectorImage,artifacts,ad7fa765-121f-4984-93c4-bcb3c1be4d6e-1",
+                "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,picture,com.linkedin.common.VectorImage,artifacts,ad7fa765-121f-4984-93c4-bcb3c1be4d6e-2",
+                "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,picture,com.linkedin.common.VectorImage,artifacts,ad7fa765-121f-4984-93c4-bcb3c1be4d6e-3"
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C5603AQFBWuwRcVnwuA/profile-displayphoto-shrink_"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,picture,com.linkedin.common.VectorImage",
+            "$type": "com.linkedin.common.VectorImage",
+            "artifacts": [
+                "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,picture,com.linkedin.common.VectorImage,artifacts,feb69369-66bc-4cc2-86bb-33208a368647-0",
+                "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,picture,com.linkedin.common.VectorImage,artifacts,feb69369-66bc-4cc2-86bb-33208a368647-1",
+                "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,picture,com.linkedin.common.VectorImage,artifacts,feb69369-66bc-4cc2-86bb-33208a368647-2",
+                "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,picture,com.linkedin.common.VectorImage,artifacts,feb69369-66bc-4cc2-86bb-33208a368647-3"
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C4E03AQG4w0NPL2QPOg/profile-displayphoto-shrink_"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAAbuiI0B3-vjeqabwazx27pBk97rMc1cSck,picture,com.linkedin.common.VectorImage",
+            "$type": "com.linkedin.common.VectorImage",
+            "artifacts": [
+                "urn:li:fs_miniProfile:ACoAAAbuiI0B3-vjeqabwazx27pBk97rMc1cSck,picture,com.linkedin.common.VectorImage,artifacts,1aaaa227-8b3e-4cf7-8b39-8d6e6f17caed-0",
+                "urn:li:fs_miniProfile:ACoAAAbuiI0B3-vjeqabwazx27pBk97rMc1cSck,picture,com.linkedin.common.VectorImage,artifacts,1aaaa227-8b3e-4cf7-8b39-8d6e6f17caed-1",
+                "urn:li:fs_miniProfile:ACoAAAbuiI0B3-vjeqabwazx27pBk97rMc1cSck,picture,com.linkedin.common.VectorImage,artifacts,1aaaa227-8b3e-4cf7-8b39-8d6e6f17caed-2",
+                "urn:li:fs_miniProfile:ACoAAAbuiI0B3-vjeqabwazx27pBk97rMc1cSck,picture,com.linkedin.common.VectorImage,artifacts,1aaaa227-8b3e-4cf7-8b39-8d6e6f17caed-3"
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C5603AQGvoYnyO3h3ow/profile-displayphoto-shrink_"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_miniProfile:ACoAAA4QzDwBNrS0JZ7vfY4hIpukOccoJbMZhvI,picture,com.linkedin.common.VectorImage",
+            "$type": "com.linkedin.common.VectorImage",
+            "artifacts": [
+                "urn:li:fs_miniProfile:ACoAAA4QzDwBNrS0JZ7vfY4hIpukOccoJbMZhvI,picture,com.linkedin.common.VectorImage,artifacts,840c54ba-2227-45a7-babd-15803158e371-0",
+                "urn:li:fs_miniProfile:ACoAAA4QzDwBNrS0JZ7vfY4hIpukOccoJbMZhvI,picture,com.linkedin.common.VectorImage,artifacts,840c54ba-2227-45a7-babd-15803158e371-1",
+                "urn:li:fs_miniProfile:ACoAAA4QzDwBNrS0JZ7vfY4hIpukOccoJbMZhvI,picture,com.linkedin.common.VectorImage,artifacts,840c54ba-2227-45a7-babd-15803158e371-2",
+                "urn:li:fs_miniProfile:ACoAAA4QzDwBNrS0JZ7vfY4hIpukOccoJbMZhvI,picture,com.linkedin.common.VectorImage,artifacts,840c54ba-2227-45a7-babd-15803158e371-3"
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/C5603AQE2Ajh4A2we4w/profile-displayphoto-shrink_"
+        },
+        {
+            "$deletedFields": [
+                "attribution"
+            ],
+            "$id": "urn:li:fs_miniCompany:23971,logo,com.linkedin.voyager.common.MediaProcessorImage",
+            "$type": "com.linkedin.voyager.common.MediaProcessorImage",
+            "id": "/AAMABAQIAAkAAQAAAAAAAA8iAAAAJDg1OGUxZjBhLWU0MDAtNDQwNS1hNzcyLTM1MmNhZjg1ZjE2YQ.bin"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,56609435651),endorser,distance",
+            "$type": "com.linkedin.voyager.common.MemberDistance",
+            "value": "DISTANCE_1"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,35312168213),endorser,distance",
+            "$type": "com.linkedin.voyager.common.MemberDistance",
+            "value": "DISTANCE_1"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37),highlights,8a78adf4-9f56-488a-95ad-405cee862736-0,detail,com.linkedin.voyager.identity.profile.endorsedSkill.SharedEntityInfo,endorsers,5f3147c6-16b8-4ee7-9026-b75fca60e9f0-1,distance",
+            "$type": "com.linkedin.voyager.common.MemberDistance",
+            "value": "OUT_OF_NETWORK"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,54144464021),endorser,distance",
+            "$type": "com.linkedin.voyager.common.MemberDistance",
+            "value": "DISTANCE_1"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,63829127281),endorser,distance",
+            "$type": "com.linkedin.voyager.common.MemberDistance",
+            "value": "DISTANCE_1"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37),highlights,8a78adf4-9f56-488a-95ad-405cee862736-0,detail,com.linkedin.voyager.identity.profile.endorsedSkill.SharedEntityInfo,endorsers,5f3147c6-16b8-4ee7-9026-b75fca60e9f0-0,distance",
+            "$type": "com.linkedin.voyager.common.MemberDistance",
+            "value": "OUT_OF_NETWORK"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,54758214034),endorser,distance",
+            "$type": "com.linkedin.voyager.common.MemberDistance",
+            "value": "DISTANCE_1"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,53877107054),endorser,distance",
+            "$type": "com.linkedin.voyager.common.MemberDistance",
+            "value": "DISTANCE_1"
+        },
+        {
+            "$deletedFields": [
+                "universalName"
+            ],
+            "$type": "com.linkedin.voyager.entities.shared.MiniCompany",
+            "active": true,
+            "entityUrn": "urn:li:fs_miniCompany:23971",
+            "logo": {
+                "com.linkedin.voyager.common.MediaProcessorImage": "urn:li:fs_miniCompany:23971,logo,com.linkedin.voyager.common.MediaProcessorImage"
+            },
+            "name": "Barbarian",
+            "objectUrn": "urn:li:company:23971",
+            "showcase": false,
+            "trackingId": "eTYuXHRnQDiSd8nLU8Mi1A=="
+        },
+        {
+            "$deletedFields": [
+                "highlights"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 0,
+            "endorsements": [],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,8)",
+            "originalCategoryType": "INDUSTRY_KNOWLEDGE",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,8)"
+        },
+        {
+            "$deletedFields": [
+                "highlights"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 0,
+            "endorsements": [],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,7)",
+            "originalCategoryType": "INDUSTRY_KNOWLEDGE",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,7)"
+        },
+        {
+            "$deletedFields": [
+                "highlights"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 0,
+            "endorsements": [],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,6)",
+            "originalCategoryType": "TOOLS_TECHNOLOGIES",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,6)"
+        },
+        {
+            "$deletedFields": [
+                "highlights"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 2,
+            "endorsements": [
+                "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,35312168213)"
+            ],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,44)",
+            "originalCategoryType": "NONE",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,44)"
+        },
+        {
+            "$deletedFields": [
+                "highlights"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 0,
+            "endorsements": [],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,5)",
+            "originalCategoryType": "NONE",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,5)"
+        },
+        {
+            "$deletedFields": [
+                "highlights"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 0,
+            "endorsements": [],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,4)",
+            "originalCategoryType": "NONE",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,4)"
+        },
+        {
+            "$deletedFields": [
+                "highlights"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 3,
+            "endorsements": [
+                "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,56609435651)"
+            ],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216948904)",
+            "originalCategoryType": "INDUSTRY_KNOWLEDGE",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216948904)"
+        },
+        {
+            "$deletedFields": [
+                "highlights"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 2,
+            "endorsements": [
+                "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,54144464021)"
+            ],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216946808)",
+            "originalCategoryType": "INDUSTRY_KNOWLEDGE",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216946808)"
+        },
+        {
+            "$deletedFields": [
+                "highlights"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 0,
+            "endorsements": [],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,10)",
+            "originalCategoryType": "NONE",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,10)"
+        },
+        {
+            "$deletedFields": [
+                "highlights"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 6,
+            "endorsements": [
+                "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,53877107054)"
+            ],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216947904)",
+            "originalCategoryType": "INTERPERSONAL",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216947904)"
+        },
+        {
+            "$deletedFields": [
+                "highlights"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 0,
+            "endorsements": [],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,3)",
+            "originalCategoryType": "INDUSTRY_KNOWLEDGE",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,3)"
+        },
+        {
+            "$deletedFields": [
+                "highlights"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 3,
+            "endorsements": [
+                "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,54758214034)"
+            ],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216950013)",
+            "originalCategoryType": "INDUSTRY_KNOWLEDGE",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216950013)"
+        },
+        {
+            "$deletedFields": [
+                "highlights"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 0,
+            "endorsements": [],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,2)",
+            "originalCategoryType": "INDUSTRY_KNOWLEDGE",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,2)"
+        },
+        {
+            "$deletedFields": [
+                "highlights"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 0,
+            "endorsements": [],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1)",
+            "originalCategoryType": "INDUSTRY_KNOWLEDGE",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1)"
+        },
+        {
+            "$deletedFields": [
+                "highlights"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 0,
+            "endorsements": [],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,9)",
+            "originalCategoryType": "INTERPERSONAL",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,9)"
+        },
+        {
+            "$deletedFields": [],
+            "$type": "com.linkedin.voyager.identity.profile.EndorsedSkill",
+            "endorsedByViewer": false,
+            "endorsementCount": 19,
+            "endorsements": [
+                "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,63829127281)"
+            ],
+            "entityUrn": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37)",
+            "highlights": [
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37),highlights,8a78adf4-9f56-488a-95ad-405cee862736-0"
+            ],
+            "originalCategoryType": "INDUSTRY_KNOWLEDGE",
+            "proofPoints": [],
+            "skill": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37)"
+        },
+        {
+            "$deletedFields": [],
+            "$type": "com.linkedin.voyager.identity.profile.Endorsement",
+            "endorser": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,63829127281),endorser",
+            "entityUrn": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,63829127281)",
+            "status": "ACCEPTED"
+        },
+        {
+            "$deletedFields": [],
+            "$type": "com.linkedin.voyager.identity.profile.Endorsement",
+            "endorser": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,56609435651),endorser",
+            "entityUrn": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,56609435651)",
+            "status": "ACCEPTED"
+        },
+        {
+            "$deletedFields": [],
+            "$type": "com.linkedin.voyager.identity.profile.Endorsement",
+            "endorser": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,35312168213),endorser",
+            "entityUrn": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,35312168213)",
+            "status": "ACCEPTED"
+        },
+        {
+            "$deletedFields": [],
+            "$type": "com.linkedin.voyager.identity.profile.Endorsement",
+            "endorser": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,54144464021),endorser",
+            "entityUrn": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,54144464021)",
+            "status": "ACCEPTED"
+        },
+        {
+            "$deletedFields": [],
+            "$type": "com.linkedin.voyager.identity.profile.Endorsement",
+            "endorser": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,54758214034),endorser",
+            "entityUrn": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,54758214034)",
+            "status": "ACCEPTED"
+        },
+        {
+            "$deletedFields": [],
+            "$type": "com.linkedin.voyager.identity.profile.Endorsement",
+            "endorser": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,53877107054),endorser",
+            "entityUrn": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,53877107054)",
+            "status": "ACCEPTED"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,53877107054),endorser",
+            "$type": "com.linkedin.voyager.identity.profile.EndorserMiniProfile",
+            "distance": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,53877107054),endorser,distance",
+            "miniProfile": "urn:li:fs_miniProfile:ACoAAAK6zqgBVb7mELrwGiEU28CJlyLnt7eFqfA"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,54144464021),endorser",
+            "$type": "com.linkedin.voyager.identity.profile.EndorserMiniProfile",
+            "distance": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,54144464021),endorser,distance",
+            "miniProfile": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,54758214034),endorser",
+            "$type": "com.linkedin.voyager.identity.profile.EndorserMiniProfile",
+            "distance": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,54758214034),endorser,distance",
+            "miniProfile": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,63829127281),endorser",
+            "$type": "com.linkedin.voyager.identity.profile.EndorserMiniProfile",
+            "distance": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,63829127281),endorser,distance",
+            "miniProfile": "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,35312168213),endorser",
+            "$type": "com.linkedin.voyager.identity.profile.EndorserMiniProfile",
+            "distance": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,35312168213),endorser,distance",
+            "miniProfile": "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,56609435651),endorser",
+            "$type": "com.linkedin.voyager.identity.profile.EndorserMiniProfile",
+            "distance": "urn:li:fs_endorsement:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,56609435651),endorser,distance",
+            "miniProfile": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ"
+        },
+        {
+            "$deletedFields": [],
+            "$type": "com.linkedin.voyager.identity.profile.ProfileSkillCategory",
+            "categoryName": "Top Skills",
+            "endorsedSkills": [
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37)",
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216947904)",
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216948904)"
+            ],
+            "entityUrn": "urn:li:fs_profileSkillCategory:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,TOP)",
+            "type": "TOP"
+        },
+        {
+            "$deletedFields": [],
+            "$type": "com.linkedin.voyager.identity.profile.ProfileSkillCategory",
+            "categoryName": "Interpersonal Skills",
+            "endorsedSkills": [
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,9)"
+            ],
+            "entityUrn": "urn:li:fs_profileSkillCategory:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,INTERPERSONAL)",
+            "type": "INTERPERSONAL"
+        },
+        {
+            "$deletedFields": [],
+            "$type": "com.linkedin.voyager.identity.profile.ProfileSkillCategory",
+            "categoryName": "Tools & Technologies",
+            "endorsedSkills": [
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,6)"
+            ],
+            "entityUrn": "urn:li:fs_profileSkillCategory:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,TOOLS_TECHNOLOGIES)",
+            "type": "TOOLS_TECHNOLOGIES"
+        },
+        {
+            "$deletedFields": [],
+            "$type": "com.linkedin.voyager.identity.profile.ProfileSkillCategory",
+            "categoryName": "Industry Knowledge",
+            "endorsedSkills": [
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216950013)",
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216946808)",
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1)",
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,2)",
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,3)",
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,7)",
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,8)"
+            ],
+            "entityUrn": "urn:li:fs_profileSkillCategory:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,INDUSTRY_KNOWLEDGE)",
+            "type": "INDUSTRY_KNOWLEDGE"
+        },
+        {
+            "$deletedFields": [],
+            "$type": "com.linkedin.voyager.identity.profile.ProfileSkillCategory",
+            "categoryName": "Languages",
+            "endorsedSkills": [],
+            "entityUrn": "urn:li:fs_profileSkillCategory:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,SPOKEN_LANGUAGES)",
+            "type": "SPOKEN_LANGUAGES"
+        },
+        {
+            "$deletedFields": [],
+            "$type": "com.linkedin.voyager.identity.profile.ProfileSkillCategory",
+            "categoryName": "Other Skills",
+            "endorsedSkills": [
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,44)",
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,4)",
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,5)",
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,10)"
+            ],
+            "entityUrn": "urn:li:fs_profileSkillCategory:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,NONE)",
+            "type": "NONE"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,10)",
+            "name": "HUMINT"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,4)",
+            "name": "Installation Design"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,3)",
+            "name": "Rapid Prototyping"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,44)",
+            "name": "Talking Points"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,6)",
+            "name": "JavaScript"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216947904)",
+            "name": "Public Speaking"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,5)",
+            "name": "Technology Evaluation"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,8)",
+            "name": "Web Development"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37)",
+            "name": "Start-ups"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,7)",
+            "name": "Concept Development"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216946808)",
+            "name": "Data Analysis"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216950013)",
+            "name": "User Experience"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,2)",
+            "name": "Software Development"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1216948904)",
+            "name": "Strategy"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,9)",
+            "name": "Interrogation"
+        },
+        {
+            "$deletedFields": [
+                "standardizedSkillUrn",
+                "standardizedSkill"
+            ],
+            "$type": "com.linkedin.voyager.identity.profile.Skill",
+            "entityUrn": "urn:li:fs_skill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,1)",
+            "name": "Design"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37),highlights,8a78adf4-9f56-488a-95ad-405cee862736-0",
+            "$type": "com.linkedin.voyager.identity.profile.endorsedSkill.EndorsedSkillHighlight",
+            "detail": {
+                "com.linkedin.voyager.identity.profile.endorsedSkill.SharedEntityInfo": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37),highlights,8a78adf4-9f56-488a-95ad-405cee862736-0,detail,com.linkedin.voyager.identity.profile.endorsedSkill.SharedEntityInfo"
+            },
+            "signature": "7ObVa2MXTd+A40CVSW1hfQ=="
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37),highlights,8a78adf4-9f56-488a-95ad-405cee862736-0,detail,com.linkedin.voyager.identity.profile.endorsedSkill.SharedEntityInfo",
+            "$type": "com.linkedin.voyager.identity.profile.endorsedSkill.SharedEntityInfo",
+            "endorsers": [
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37),highlights,8a78adf4-9f56-488a-95ad-405cee862736-0,detail,com.linkedin.voyager.identity.profile.endorsedSkill.SharedEntityInfo,endorsers,5f3147c6-16b8-4ee7-9026-b75fca60e9f0-0",
+                "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37),highlights,8a78adf4-9f56-488a-95ad-405cee862736-0,detail,com.linkedin.voyager.identity.profile.endorsedSkill.SharedEntityInfo,endorsers,5f3147c6-16b8-4ee7-9026-b75fca60e9f0-1"
+            ],
+            "sharedEntity": {
+                "com.linkedin.voyager.entities.shared.MiniCompany": "urn:li:fs_miniCompany:23971"
+            },
+            "totalCount": 2
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37),highlights,8a78adf4-9f56-488a-95ad-405cee862736-0,detail,com.linkedin.voyager.identity.profile.endorsedSkill.SharedEntityInfo,endorsers,5f3147c6-16b8-4ee7-9026-b75fca60e9f0-0",
+            "$type": "com.linkedin.voyager.identity.shared.HighlightsMiniProfile",
+            "distance": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37),highlights,8a78adf4-9f56-488a-95ad-405cee862736-0,detail,com.linkedin.voyager.identity.profile.endorsedSkill.SharedEntityInfo,endorsers,5f3147c6-16b8-4ee7-9026-b75fca60e9f0-0,distance",
+            "miniProfile": "urn:li:fs_miniProfile:ACoAAA4QzDwBNrS0JZ7vfY4hIpukOccoJbMZhvI"
+        },
+        {
+            "$deletedFields": [],
+            "$id": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37),highlights,8a78adf4-9f56-488a-95ad-405cee862736-0,detail,com.linkedin.voyager.identity.profile.endorsedSkill.SharedEntityInfo,endorsers,5f3147c6-16b8-4ee7-9026-b75fca60e9f0-1",
+            "$type": "com.linkedin.voyager.identity.shared.HighlightsMiniProfile",
+            "distance": "urn:li:fs_endorsedSkill:(ACoAAARTV-QBkrY5NRZhuwI_lIeZPwQffCDQpEc,37),highlights,8a78adf4-9f56-488a-95ad-405cee862736-0,detail,com.linkedin.voyager.identity.profile.endorsedSkill.SharedEntityInfo,endorsers,5f3147c6-16b8-4ee7-9026-b75fca60e9f0-1,distance",
+            "miniProfile": "urn:li:fs_miniProfile:ACoAAAbuiI0B3-vjeqabwazx27pBk97rMc1cSck"
+        },
+        {
+            "$deletedFields": [
+                "backgroundImage"
+            ],
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAbuiI0B3-vjeqabwazx27pBk97rMc1cSck",
+            "firstName": "Shlomo Shon",
+            "lastName": "Dalezman",
+            "objectUrn": "urn:li:member:116295821",
+            "occupation": "CTO & Co Founder @Intello [I'm Hiring Engineers]",
+            "picture": {
+                "com.linkedin.common.VectorImage": "urn:li:fs_miniProfile:ACoAAAbuiI0B3-vjeqabwazx27pBk97rMc1cSck,picture,com.linkedin.common.VectorImage"
+            },
+            "publicIdentifier": "sdalezman",
+            "trackingId": "tjOBqQ9yT/qqT32RF6EUtA=="
+        },
+        {
+            "$deletedFields": [
+                "backgroundImage"
+            ],
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ",
+            "firstName": "Dylan",
+            "lastName": "Binkley",
+            "objectUrn": "urn:li:member:76906790",
+            "occupation": "Consultant at Bain & Company",
+            "picture": {
+                "com.linkedin.common.VectorImage": "urn:li:fs_miniProfile:ACoAAASVgSYB7H1Mdzr7yzUcaJ-MHb6MolFzUQQ,picture,com.linkedin.common.VectorImage"
+            },
+            "publicIdentifier": "dylanbinkley",
+            "trackingId": "APgpHQkDSSiB+NisJDVtFA=="
+        },
+        {
+            "$deletedFields": [],
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile",
+            "backgroundImage": {
+                "com.linkedin.common.VectorImage": "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,backgroundImage,com.linkedin.common.VectorImage"
+            },
+            "entityUrn": "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A",
+            "firstName": "Alex",
+            "lastName": "Lang",
+            "objectUrn": "urn:li:member:282284267",
+            "occupation": "Art Director at GSD&M",
+            "picture": {
+                "com.linkedin.common.VectorImage": "urn:li:fs_miniProfile:ACoAABDTUOsBu7dPSGG-fLT-7bmNjAWIT6KwY3A,picture,com.linkedin.common.VectorImage"
+            },
+            "publicIdentifier": "alex-lang-b4b6527a",
+            "trackingId": "c5XC3tdwQiqHm4lLh2t7Rw=="
+        },
+        {
+            "$deletedFields": [],
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile",
+            "backgroundImage": {
+                "com.linkedin.common.VectorImage": "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,backgroundImage,com.linkedin.common.VectorImage"
+            },
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0",
+            "firstName": "Ronen",
+            "lastName": "Pelleg",
+            "objectUrn": "urn:li:member:39620314",
+            "occupation": "Professional Manager at Yad Mordechy Agriculture",
+            "picture": {
+                "com.linkedin.common.VectorImage": "urn:li:fs_miniProfile:ACoAAAJcjtoBuz4rfX33riS695qSX1FG7SxH7t0,picture,com.linkedin.common.VectorImage"
+            },
+            "publicIdentifier": "ronenpelleg",
+            "trackingId": "MUN9O6X6T42vsS3vw77QxA=="
+        },
+        {
+            "$deletedFields": [
+                "backgroundImage"
+            ],
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAK6zqgBVb7mELrwGiEU28CJlyLnt7eFqfA",
+            "firstName": "Alejandro",
+            "lastName": "Puentes Am\u00e9zquita",
+            "objectUrn": "urn:li:member:45797032",
+            "occupation": "Architecture | Media | Education",
+            "picture": {
+                "com.linkedin.common.VectorImage": "urn:li:fs_miniProfile:ACoAAAK6zqgBVb7mELrwGiEU28CJlyLnt7eFqfA,picture,com.linkedin.common.VectorImage"
+            },
+            "publicIdentifier": "apuentes",
+            "trackingId": "V8PPDXPDRs6TP1mma+vmlg=="
+        },
+        {
+            "$deletedFields": [
+                "backgroundImage"
+            ],
+            "$type": "com.linkedin.voyager.identity.shared.MiniProfile",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAA4QzDwBNrS0JZ7vfY4hIpukOccoJbMZhvI",
+            "firstName": "Colin",
+            "lastName": "Nagy",
+            "objectUrn": "urn:li:member:235981884",
+            "occupation": "Head of Strategy at FRED & FARID",
+            "picture": {
+                "com.linkedin.common.VectorImage": "urn:li:fs_miniProfile:ACoAAA4QzDwBNrS0JZ7vfY4hIpukOccoJbMZhvI,picture,com.linkedin.common.VectorImage"
+            },
+            "publicIdentifier": "colinjamesnagy",
+            "trackingId": "Vft+UYUeSUGN4K3Ump8HIg=="
+        }
+    ]
+}
