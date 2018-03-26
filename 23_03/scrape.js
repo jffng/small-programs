@@ -1,5 +1,6 @@
 const puppeteer = require('puppeteer');
 const config = require('../config').puppeteer;
+const delayPromise = require('../utils/delay-promise');
 
 (async() => {
   const browser = await puppeteer.launch();
@@ -11,8 +12,9 @@ const config = require('../config').puppeteer;
     value: config['cookie_value'],
     domain: config['cookie_domain'] 
   });
-  
+
   await page.goto(config['url']);
+  await delayPromise(2000 + Math.random * 3000);
   await page.screenshot({ path: 'screenshot.png' });
   const results = await page.$('#experience-section');
   console.log(results)
